@@ -1,4 +1,5 @@
 # creating empty list
+
 lst = []
 
 # number of elemetns as input
